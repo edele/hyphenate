@@ -1,0 +1,6 @@
+Accepts POST with `text` parameter.
+
+Will output hyphenated string if provideded.
+Otherwise outputs an empty string.
+
+Always returns `text/plain` content type.
