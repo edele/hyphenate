@@ -1,0 +1,11 @@
+{
+    "name": "edele/hyphenate",
+    "description": "Will output hyphenated string if provideded",
+    "authors": [
+        {
+            "name": "Edele Gizatullin",
+            "email": "me@edele.ru"
+        }
+    ],
+    "require": {}
+}
