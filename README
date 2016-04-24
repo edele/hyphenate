@@ -4,3 +4,6 @@ Will output hyphenated string if provided.
 Otherwise outputs an empty string.
 
 Always returns `text/plain` content type.
+
+Author of phphypher:
+Сергей Куракин <sergeykurakin@gmail.com>
